@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 13 20:57:09 2019
-
-@author: monniello
-"""
 
 import numpy as np
 import Func_utils as FUN
