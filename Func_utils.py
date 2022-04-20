@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  9 10:42:54 2018
-
-@author: leonard
-
 Module for fitting data.
 
 contains class functions as Gaussian, Fano, Lorentz, and Polynom.
