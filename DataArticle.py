@@ -37,7 +37,7 @@ def RA(lambdas,d):
     denom=1 + R01(lambdas)*R12(lambdas)*np.exp(2*1.48*np.pi*j*2*d/lambdas)
     return 1-num/denom
 
-repertoire = 'C:/Users/monniello/Desktop/Article Montpellier/'
+repertoire = 'C:/Users/Nam/Desktop/Article Montpellier/'
 
 #########################################
 #########       TUBEK10           #######
